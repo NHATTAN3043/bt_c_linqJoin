@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\bt_linqjoin\\QLNhanVien\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{928F6842-F448-4E21-95C3-BEAF2E5F2AC4}|QLNhanVien\\QLNhanVien.csproj|d:\\bt_linqjoin\\qlnhanvien\\qlnhanvien\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{928F6842-F448-4E21-95C3-BEAF2E5F2AC4}|QLNhanVien\\QLNhanVien.csproj|solutionrelative:qlnhanvien\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{928F6842-F448-4E21-95C3-BEAF2E5F2AC4}|QLNhanVien\\QLNhanVien.csproj|d:\\bt_linqjoin\\qlnhanvien\\qlnhanvien\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{928F6842-F448-4E21-95C3-BEAF2E5F2AC4}|QLNhanVien\\QLNhanVien.csproj|solutionrelative:qlnhanvien\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{928F6842-F448-4E21-95C3-BEAF2E5F2AC4}|QLNhanVien\\QLNhanVien.csproj|d:\\bt_linqjoin\\qlnhanvien\\qlnhanvien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{928F6842-F448-4E21-95C3-BEAF2E5F2AC4}|QLNhanVien\\QLNhanVien.csproj|solutionrelative:qlnhanvien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\bt_linqjoin\\QLNhanVien\\QLNhanVien\\Employee.cs",
+              "RelativeDocumentMoniker": "QLNhanVien\\Employee.cs",
+              "ToolTip": "D:\\bt_linqjoin\\QLNhanVien\\QLNhanVien\\Employee.cs",
+              "RelativeToolTip": "QLNhanVien\\Employee.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwBIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T15:08:20.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\bt_linqjoin\\QLNhanVien\\QLNhanVien\\Department.cs",
+              "RelativeDocumentMoniker": "QLNhanVien\\Department.cs",
+              "ToolTip": "D:\\bt_linqjoin\\QLNhanVien\\QLNhanVien\\Department.cs",
+              "RelativeToolTip": "QLNhanVien\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T15:08:08.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\bt_linqjoin\\QLNhanVien\\QLNhanVien\\Program.cs",
+              "RelativeDocumentMoniker": "QLNhanVien\\Program.cs",
+              "ToolTip": "D:\\bt_linqjoin\\QLNhanVien\\QLNhanVien\\Program.cs",
+              "RelativeToolTip": "QLNhanVien\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T15:07:42.469Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

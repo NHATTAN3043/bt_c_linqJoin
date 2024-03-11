@@ -1,0 +1,15 @@
+D:\bt_linqjoin\QLNhanVien\QLNhanVien\bin\Debug\net5.0\QLNhanVien.exe
+D:\bt_linqjoin\QLNhanVien\QLNhanVien\bin\Debug\net5.0\QLNhanVien.deps.json
+D:\bt_linqjoin\QLNhanVien\QLNhanVien\bin\Debug\net5.0\QLNhanVien.runtimeconfig.json
+D:\bt_linqjoin\QLNhanVien\QLNhanVien\bin\Debug\net5.0\QLNhanVien.runtimeconfig.dev.json
+D:\bt_linqjoin\QLNhanVien\QLNhanVien\bin\Debug\net5.0\QLNhanVien.dll
+D:\bt_linqjoin\QLNhanVien\QLNhanVien\bin\Debug\net5.0\QLNhanVien.pdb
+D:\bt_linqjoin\QLNhanVien\QLNhanVien\obj\Debug\net5.0\QLNhanVien.GeneratedMSBuildEditorConfig.editorconfig
+D:\bt_linqjoin\QLNhanVien\QLNhanVien\obj\Debug\net5.0\QLNhanVien.AssemblyInfoInputs.cache
+D:\bt_linqjoin\QLNhanVien\QLNhanVien\obj\Debug\net5.0\QLNhanVien.AssemblyInfo.cs
+D:\bt_linqjoin\QLNhanVien\QLNhanVien\obj\Debug\net5.0\QLNhanVien.csproj.CoreCompileInputs.cache
+D:\bt_linqjoin\QLNhanVien\QLNhanVien\obj\Debug\net5.0\QLNhanVien.dll
+D:\bt_linqjoin\QLNhanVien\QLNhanVien\obj\Debug\net5.0\refint\QLNhanVien.dll
+D:\bt_linqjoin\QLNhanVien\QLNhanVien\obj\Debug\net5.0\QLNhanVien.pdb
+D:\bt_linqjoin\QLNhanVien\QLNhanVien\obj\Debug\net5.0\QLNhanVien.genruntimeconfig.cache
+D:\bt_linqjoin\QLNhanVien\QLNhanVien\obj\Debug\net5.0\ref\QLNhanVien.dll
